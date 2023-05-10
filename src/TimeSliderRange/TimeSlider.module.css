@@ -1,0 +1,29 @@
+.timeSlider {
+    display: flex;
+    background-color: var(--vkui--color_field_background);
+    border: 0.5px solid rgb(57, 57, 57);
+    border-radius: var(--vkui--size_border_radius--regular);
+    padding: 2px;
+}
+
+.timeSliderRange {
+    display: flex;
+}
+
+.timeSliderRange_dash {
+    line-height: 25px;
+    margin: 0 10px
+}
+
+.timeSlider_button {
+    margin: 0;
+    height: 25px;
+    color: var(--vkui--color_icon_secondary)
+}
+
+.timeSlider_text {
+    vertical-align: middle;
+    text-align: justify;
+    margin: 0 3px;
+    line-height: 22px;
+}

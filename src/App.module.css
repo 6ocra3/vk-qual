@@ -1,0 +1,17 @@
+.button {
+    margin: auto;
+}
+
+.root {
+    display: flex;
+}
+
+.rootSplit {
+    width: max(40vw, 400px);
+    margin: auto
+}
+
+.mainGroup {
+    display: flex;
+    height: 350px;
+}

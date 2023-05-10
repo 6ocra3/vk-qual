@@ -1,0 +1,19 @@
+.popout {
+    width: 350px;
+
+}
+
+.border {
+    border: 0.5px solid rgb(57, 57, 57);
+    border-radius: var(--vkui--size_border_radius--regular);
+}
+
+.dateInput {
+    padding-bottom: 0;
+}
+
+
+.btnGroup {
+    display: flex;
+    justify-content: space-between;
+}
