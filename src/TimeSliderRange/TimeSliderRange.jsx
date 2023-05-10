@@ -1,5 +1,4 @@
 import React from 'react';
-import { useState } from 'react';
 import s from "./TimeSlider.module.css"
 import TimeSlider from './TimeSlider';
 export default function TimeSliderRange(props) {
