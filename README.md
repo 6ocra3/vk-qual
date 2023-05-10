@@ -4,6 +4,7 @@
 
 Запускается через:
 
+### `npm install`
 ### `npm start`
 
 Использовал [VKUI](https://vkcom.github.io/VKUI/) для решения задания
